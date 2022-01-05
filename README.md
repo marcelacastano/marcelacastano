@@ -2,13 +2,12 @@
 
 ### 👉 About me
 
-FinTech Noob
-
-Bilingual
+- FinTech Noob
+- Bilingual
 
 ### 💼 What I do
 
-On my day to day, I work as an Engineer and coach at a local CrossFit gym.
+- On my day to day, I work as an Engineer and coach at a local CrossFit gym.
 
 ### 💡 What I'm working on
 
