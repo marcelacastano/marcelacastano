@@ -3,6 +3,7 @@
 ### 👉 About me
 
 FinTech Noob
+
 Bilingual
 
 ### 💼 What I do
