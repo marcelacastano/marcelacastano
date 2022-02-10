@@ -17,10 +17,11 @@ These are some of the things I've recently learned to do:
 - Connect to APIs
 - Generate SQL databases using PostgreSQL
 - Develop Machine Learning Algorithms and deploy on AWS Sagemaker
+- Create Smart Contracts, NFTs and DAPPs
 
 ### 🔥 What's next?
 
-Blockchain and Cryptocurrency!
+I'll be participating in the [Collaborative Coallition](https://www.research.fsu.edu/research-offices/ord/collaborative-collision/collaborative-incubator/) funding competition.
 
 ---
 
