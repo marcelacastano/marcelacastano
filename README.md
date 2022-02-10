@@ -9,7 +9,7 @@
 
 On my day to day, I work as an Engineer and coach at a local CrossFit gym.
 
-### 💡 What I'm working on
+### 💡 Programming Skills
 
 These are some of the things I've recently learned to do:
 
